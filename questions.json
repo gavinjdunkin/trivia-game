@@ -1,0 +1,55 @@
+{
+    "questions": [
+      {
+        "question": "What year was the MBTA established?",
+        "options": ["1965", "1975", "1985", "1995"],
+        "correct_answer": "a"
+      },
+      {
+        "question": "Which is the busiest subway line in the MBTA system?",
+        "options": ["Red Line", "Green Line", "Blue Line", "Orange Line"],
+        "correct_answer": "a"
+      },
+      {
+        "question": "How many total stations are there in the MBTA subway system?",
+        "options": ["50", "63", "74", "85"],
+        "correct_answer": "b"
+      },
+      {
+        "question": "Which commuter rail line serves the furthest distance from Boston?",
+        "options": ["Fitchburg Line", "Lowell Line", "Worcester Line", "Newburyport/Rockport Line"],
+        "correct_answer": "c"
+      },
+      {
+        "question": "What is the name of the MBTA's automated fare collection system?",
+        "options": ["CharlieCard", "FreedomPass", "T-Link", "MetroPass"],
+        "correct_answer": "a"
+      },
+      {
+        "question": "Which is the longest bus route in the MBTA bus system?",
+        "options": ["Route 1", "Route 39", "Route 66", "Route 34E"],
+        "correct_answer": "d"
+      },
+      {
+        "question": "What color is associated with the MBTA Silver Line buses?",
+        "options": ["Red", "Silver", "Blue", "Green"],
+        "correct_answer": "b"
+      },
+      {
+        "question": "The Mattapan High-Speed Line uses vintage PCC streetcars. What year did the PCC streetcars begin service on this line?",
+        "options": ["1928", "1945", "1955", "1968"],
+        "correct_answer": "a"
+      },
+      {
+        "question": "Which station is the southern terminus of the Red Line?",
+        "options": ["Alewife", "Ashmont", "Braintree", "Quincy Center"],
+        "correct_answer": "c"
+      },
+      {
+        "question": "The MBTA's ferry system provides service to which Boston Harbor island?",
+        "options": ["Georges Island", "Spectacle Island", "Thompson Island", "Peddocks Island"],
+        "correct_answer": "a"
+      }
+    ]
+  }
+  
