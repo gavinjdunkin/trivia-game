@@ -33,10 +33,10 @@ This project is a simple trivia game implemented using Go for the server and Jav
 2. Run the server:
 
     ```bash
-    go run server.go
+    go run main.go
     ```
 
-3. Open `index.html` in a web browser.
+3. Visit localhost:3000//host to host and localhost:3000 to play.
 
 ## Usage
 
